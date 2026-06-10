@@ -2,6 +2,9 @@
 
 A modern, professional portfolio showcasing AI/ML projects, full-stack development work, and technical skills.
 
+## Live Portfolio
+🔗 https://appurathod-portfolio.vercel.app/ 
+
 ## 🚀 Features
 
 - **Responsive Design**: Works perfectly on desktop, tablet, and mobile devices
